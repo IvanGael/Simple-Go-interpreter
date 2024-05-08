@@ -1,0 +1,1 @@
+Trying to create an interpreter in Go
